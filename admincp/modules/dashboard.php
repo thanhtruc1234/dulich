@@ -1,0 +1,1 @@
+<p class="display-6 text-center">Chào mừng <b> <?=$_SESSION['dangnhap']?></b> đến với trang admin VIETNAM TRAVEL</p>
